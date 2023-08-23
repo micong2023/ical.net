@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//Your App//EN
+CALSCALE:GREGORIAN
+
+-- Reservering Sporthal Laan van Spartaan --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20230902T093000Z
+DTEND:20230902T120000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SA
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Saturdays from 09:30 AM to 12:00 PM in September 2023.
+END:VEVENT
+
+-- October Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20231007T093000Z
+DTEND:20231007T120000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SA
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Saturdays from 09:30 AM to 12:00 PM in October 2023.
+END:VEVENT
+
+-- November Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20231104T093000Z
+DTEND:20231104T120000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SA
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Saturdays from 09:30 AM to 12:00 PM in November 2023.
+END:VEVENT
+
+-- December Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20231202T093000Z
+DTEND:20231202T120000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SA
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Saturdays from 09:30 AM to 12:00 PM in December 2023.
+END:VEVENT
+
+-- January Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20240106T093000Z
+DTEND:20240106T120000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SA
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Saturdays from 09:30 AM to 12:00 PM in January 2024.
+END:VEVENT
+
+-- February Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20240203T093000Z
+DTEND:20240203T120000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SA
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Saturdays from 09:30 AM to 12:00 PM in February 2024.
+END:VEVENT
+
+-- March Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20240302T093000Z
+DTEND:20240302T120000Z
+RRULE:FREQ=WEEKLY;COUNT=5;BYDAY=SA
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Saturdays from 09:30 AM to 12:00 PM in March 2024.
+END:VEVENT
+
+-- April Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20240406T093000Z
+DTEND:20240406T120000Z
+RRULE:FREQ=WEEKLY;COUNT=3;BYDAY=SA
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Saturdays from 09:30 AM to 12:00 PM in April 2024.
+END:VEVENT
+
+-- Reservering Gymzaal Sporthal Laan van Spartaan --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20230903T190000Z
+DTEND:20230903T220000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in September 2023.
+END:VEVENT
+
+-- October Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20231001T190000Z
+DTEND:20231001T220000Z
+RRULE:FREQ=WEEKLY;COUNT=5;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in October 2023.
+END:VEVENT
+
+-- November Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20231105T190000Z
+DTEND:20231105T220000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in November 2023.
+END:VEVENT
+
+-- December Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20231203T190000Z
+DTEND:20231203T220000Z
+RRULE:FREQ=WEEKLY;COUNT=3;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in December 2023.
+END:VEVENT
+
+-- January Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20240107T190000Z
+DTEND:20240107T220000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in January 2024.
+END:VEVENT
+
+-- February Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20240204T190000Z
+DTEND:20240204T220000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in February 2024.
+END:VEVENT
+
+-- March Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20240303T190000Z
+DTEND:20240303T220000Z
+RRULE:FREQ=WEEKLY;COUNT=4;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in March 2024.
+END:VEVENT
+
+-- April Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20240407T190000Z
+DTEND:20240407T220000Z
+RRULE:FREQ=WEEKLY;COUNT=3;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in April 2024.
+END:VEVENT
+
+-- May Dates --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Gymzaal Sporthal Laan van Spartaan
+DTSTART:20240505T190000Z
+DTEND:20240505T220000Z
+RRULE:FREQ=WEEKLY;COUNT=2;BYDAY=SU
+LOCATION:Gymzaal Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:00 PM in May 2024.
+END:VEVENT
+
+-- Reservering Sporthal Laan van Spartaan --
+BEGIN:VEVENT
+SUMMARY:Training Event - Reservering Sporthal Laan van Spartaan
+DTSTART:20240602T190000Z
+DTEND:20240602T223000Z
+RRULE:FREQ=WEEKLY;COUNT=3;BYDAY=SU
+LOCATION:Sporthal Laan van Spartaan
+DESCRIPTION:Training event on Sundays from 07:00 PM to 10:30 PM in June 2024.
+END:VEVENT
+
+END:VCALENDAR
